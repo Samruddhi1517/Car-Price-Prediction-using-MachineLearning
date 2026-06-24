@@ -110,7 +110,7 @@ The application provides:
 
 ## 🌐Live Project
 
-https://carpricepredictionwithml.streamlit.app/
+https://carpricepredictionwithml.streamlit.app
 
 ---
 
