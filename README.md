@@ -108,6 +108,16 @@ The application provides:
 
 ---
 
+## 💻UI
+
+<img width="1358" height="606" alt="1" src="https://github.com/user-attachments/assets/b4cfd35d-f0bc-4a0d-8c06-a2ae8e12a8e2" />
+
+<img width="1358" height="591" alt="2" src="https://github.com/user-attachments/assets/0181e296-e3c6-4a0e-97b9-f9375a886c27" />
+
+<img width="1358" height="598" alt="3" src="https://github.com/user-attachments/assets/fd2dbe34-0905-4295-83f3-d216464c663a" />
+
+---
+
 ## 🌐Live Project
 
 https://carpricepredictionwithml.streamlit.app
